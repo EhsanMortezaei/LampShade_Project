@@ -161,3 +161,13 @@ E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\n
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Create.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Edit.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Create.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Edit.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shared\_Menu.cshtml.g.cs
