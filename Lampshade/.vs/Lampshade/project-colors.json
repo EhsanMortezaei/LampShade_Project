@@ -40,7 +40,12 @@
       "ProjectGuid": "314b506b-4e43-4a7e-b642-4ff401674123",
       "DisplayName": "ServiceHost",
       "ColorIndex": 6
+    },
+    "636e6bd2-dedf-4d15-b31a-825d89b1f24b": {
+      "ProjectGuid": "636e6bd2-dedf-4d15-b31a-825d89b1f24b",
+      "DisplayName": "01_LampshadeQuery",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

@@ -24,3 +24,5 @@ E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configur
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\practice\asp.net core\atriya\f9Project-Shop\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.pdb
