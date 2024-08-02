@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
       "projectName": "ShopManagement.Infrastructure.EFCore",
-      "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+      "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
+      "outputPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5885,8 +5885,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

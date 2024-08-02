@@ -5957,11 +5957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
       "projectName": "DiscountManagement.Configuration",
-      "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+      "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Configuration\\obj\\",
+      "outputPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5983,14 +5983,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
-              "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
             },
-            "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
-              "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
             },
-            "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
             }
           }
         }

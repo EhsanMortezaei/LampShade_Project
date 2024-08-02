@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VtZipR8BKlH/cXrfWHWekzpKgV2iKwra1BnG7xdPWY1qM3wM6ncSFn8beozSqHaEFa2hjlqV5yOD0l6V+h4PHA==",
+  "dgSpecHash": "loM2lEau11r9B+mNkFHSUt0kT7njJpg9p08yg2J5Kdb2LbcReQFUkU0CK1/q9ihceKp1Lq3JNbw9AXMuixdaZg==",
   "success": true,
-  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

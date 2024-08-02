@@ -5782,11 +5782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+      "projectUniqueName": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
       "projectName": "01_LampshadeQuery",
-      "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+      "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\01_LampshadeQuery\\obj\\",
+      "outputPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\01_LampshadeQuery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5808,8 +5808,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
             }
           }
         }

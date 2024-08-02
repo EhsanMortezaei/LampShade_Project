@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+pEFOTAO3nz+qY6yVYeaLLEZSM0KsGDswrXGiydX6/Hh16kkZi1qUcDQvV0gPC+VpJqeVIan+4nnSxF161HXQ==",
+  "dgSpecHash": "kmqrSjpfhgowoXpy6A4Y7BKXBuSGn41r3uy9T0AJ4Sk23q7isEJ5Jvh7yJJHmoJBe3jgcd0K/p1iOe8w2JoIww==",
   "success": true,
-  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

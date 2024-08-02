@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EvpxXaKrhOx6tKy0Tj6HjiLkRfmCxIR9D/oIcP3bXMUxeLr6S79+AR1IrWw80SQm/7QZNTUxuwMTCU8rbYEpHQ==",
+  "dgSpecHash": "zRIQ9HjeNpzZm3ngtGjvMIvDRuoROiC9RxkoTX3UcNIg/XqWPcaE1u4fXv8GV+rQHXfZoQ2kr59puOX80PtudA==",
   "success": true,
-  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

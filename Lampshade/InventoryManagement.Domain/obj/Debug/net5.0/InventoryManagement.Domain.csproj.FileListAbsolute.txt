@@ -1,0 +1,15 @@
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.deps.json
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\ref\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfo.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CopyComplete
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb

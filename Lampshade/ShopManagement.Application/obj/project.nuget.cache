@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SKSb3OCiKEdVzvPi9556ryGhqAI6yfP8MgAy57zXHLTnLWq8uXNu8zyodsURl/urYtNd9i2kHfsg2I1NI5+m2A==",
+  "dgSpecHash": "spUD7FV1hBsRRWYZy9ICDASAjGHL8T3q3kGYlVQS4Q0a1byOA4UMMmV5C7Wn4ZqWJq9ZQfTLEZ81pZ4wuZwfag==",
   "success": true,
-  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\f9Project-Shop\\Lampshade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+  "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Application\\ShopManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
