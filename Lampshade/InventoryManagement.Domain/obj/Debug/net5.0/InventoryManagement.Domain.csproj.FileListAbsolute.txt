@@ -13,3 +13,5 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryMan
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb

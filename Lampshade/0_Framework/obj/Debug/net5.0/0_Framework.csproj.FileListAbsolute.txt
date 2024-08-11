@@ -14,7 +14,6 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
-E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs

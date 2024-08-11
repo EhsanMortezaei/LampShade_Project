@@ -385,3 +385,13 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
