@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ceg4dXOZlLQqUAZHv5jbpk1ppbA/XG3nnR6GKgHFcvlkvmJjoUHYQQLrp/bh9OyFkmQg4rlaZHhyJ24WsZeALg==",
+  "dgSpecHash": "sJCXKHkfvtwR0DS2wZqJipV3sIpYWwKnKZ9bLIxrKjozXM9i4KGj20whVshRJGD2qwZF9nv4MqJaCGPjAl8IeQ==",
   "success": true,
   "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

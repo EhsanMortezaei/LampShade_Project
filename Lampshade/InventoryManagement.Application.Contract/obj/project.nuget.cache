@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+qYv86BybVGpnCdxXzUDzi9RnHtPfI4ajRyhyNDmPuYPEkVNQxjk/9x2D2qYKuXGw26be+LuiOFB7PGjFiugwg==",
+  "dgSpecHash": "87oa0Ttox4PT7TSJ9b+L2ID5vQiXu8RTQEXbgVG2CAySx6usQ9MX+xSaaU06Z82bUsNEXSZuhKl+LwwtdZR0ZQ==",
   "success": true,
   "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
   "expectedPackageFiles": [

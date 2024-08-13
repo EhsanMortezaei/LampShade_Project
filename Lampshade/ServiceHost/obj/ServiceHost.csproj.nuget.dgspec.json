@@ -520,6 +520,9 @@
             "projectReferences": {
               "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
