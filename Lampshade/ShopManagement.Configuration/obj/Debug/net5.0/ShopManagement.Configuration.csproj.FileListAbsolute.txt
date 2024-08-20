@@ -54,3 +54,15 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManageme
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb

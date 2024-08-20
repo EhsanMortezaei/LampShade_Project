@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8MgrSca48I/EqSp23LiCcnRBGfc0irD+ZdIwhM9Bong5DSKiXZbnZk59V7IAXlnwceq6plnOyiEmv8Da6FjmqQ==",
+  "dgSpecHash": "YVWAemxQtt66dhd9IALhykqkAgxkdIOoAK9EFHU+xbsp/kzj8maQ92NQouGpwxJLWPG9A6aQ4M8gC1xFQCunBQ==",
   "success": true,
   "projectFilePath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
