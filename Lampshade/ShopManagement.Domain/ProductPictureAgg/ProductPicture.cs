@@ -29,7 +29,12 @@ namespace ShopManagement.Domain.ProductPictureAgg
         public void Edit(long productId, string picture, string pictureAlt, string pictureTitle)
         {
             ProductId = productId;
-            Picture = picture;
+
+            if (!string.IsNullOrEmpty(Picture))
+            {
+                Picture = picture;
+            }
+
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
         }
