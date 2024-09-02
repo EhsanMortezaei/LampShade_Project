@@ -412,3 +412,4 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Comments\Index.cshtml.g.cs
