@@ -413,3 +413,17 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Comments\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrustructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrustructure.EFCore.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
