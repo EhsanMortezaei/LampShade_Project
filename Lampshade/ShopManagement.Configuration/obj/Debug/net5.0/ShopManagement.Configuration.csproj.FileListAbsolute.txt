@@ -66,3 +66,9 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManageme
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrustructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrustructure.EFCore.pdb
