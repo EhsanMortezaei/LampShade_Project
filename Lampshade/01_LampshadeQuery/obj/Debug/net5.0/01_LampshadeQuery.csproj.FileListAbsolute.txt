@@ -58,3 +58,9 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_Lampshade
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrustructure.EFCore.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
