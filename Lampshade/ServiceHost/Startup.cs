@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
@@ -62,7 +63,30 @@ namespace ServiceHost
                     o.AccessDeniedPath = new PathString("/AccessDenied");
                 });
 
-            services.AddRazorPages();
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminArea",
+                    builder => builder.RequireRole(new List<string> { Roles.Administator, Roles.ContentUploader }));
+
+                options.AddPolicy("Shop",
+                    builde => builde.RequireRole(new List<string> { Roles.Administator }));
+
+                options.AddPolicy("Discount",
+                    builde => builde.RequireRole(new List<string> { Roles.Administator }));
+
+                options.AddPolicy("Account",
+                    builde => builde.RequireRole(new List<string> { Roles.Administator }));
+            });
+
+
+            services.AddRazorPages()
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AuthorizeAreaFolder("Adminstration", "/", "AdminArea");
+                    options.Conventions.AuthorizeAreaFolder("Adminstration", "/Shop", "Shop");
+                    options.Conventions.AuthorizeAreaFolder("Adminstration", "/Discounts", "Discount");
+                    options.Conventions.AuthorizeAreaFolder("Adminstration", "/Accounts", "Account");
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
