@@ -1726,6 +1726,33 @@
           "bin/placeholder/0_Framework.dll": {}
         }
       },
+      "AccountManagement.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AccountManagement.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountManagement.Application.Contracts.dll": {}
+        }
+      },
+      "AccountManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0",
+          "AccountManagement.Application.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AccountManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountManagement.Domain.dll": {}
+        }
+      },
       "BlogManagement.Application.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6286,6 +6313,16 @@
       "path": "../0_Framework/0_Framework.csproj",
       "msbuildProject": "../0_Framework/0_Framework.csproj"
     },
+    "AccountManagement.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AccountManagement.Application.Contracts/AccountManagement.Application.Contracts.csproj",
+      "msbuildProject": "../AccountManagement.Application.Contracts/AccountManagement.Application.Contracts.csproj"
+    },
+    "AccountManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AccountManagement.Domain/AccountManagement.Domain.csproj",
+      "msbuildProject": "../AccountManagement.Domain/AccountManagement.Domain.csproj"
+    },
     "BlogManagement.Application.Contracts/1.0.0": {
       "type": "project",
       "path": "../BlogManagement.Application.Contracts/BlogManagement.Application.Contracts.csproj",
@@ -6364,6 +6401,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "AccountManagement.Domain >= 1.0.0",
       "BlogManagement.Infrustructure.EFCore >= 1.0.0",
       "CommentManagement.Infrastructure.EFCore >= 1.0.0",
       "DiscountManagement.Infrastructure.EFCore >= 1.0.0",
@@ -6405,6 +6443,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+              "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+            },
             "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\BlogManagement.Infrustructure.EFCore\\BlogManagement.Infrustructure.EFCore.csproj": {
               "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\BlogManagement.Infrustructure.EFCore\\BlogManagement.Infrustructure.EFCore.csproj"
             },

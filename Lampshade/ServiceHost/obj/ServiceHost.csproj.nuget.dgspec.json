@@ -33,6 +33,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+                "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+              },
               "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\BlogManagement.Infrustructure.EFCore\\BlogManagement.Infrustructure.EFCore.csproj": {
                 "projectPath": "E:\\practice\\asp.net core\\atriya\\project\\LampShade_Project\\Lampshade\\BlogManagement.Infrustructure.EFCore\\BlogManagement.Infrustructure.EFCore.csproj"
               },
@@ -2026,6 +2029,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [

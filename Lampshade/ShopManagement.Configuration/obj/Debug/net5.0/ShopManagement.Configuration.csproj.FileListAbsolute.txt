@@ -78,3 +78,7 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManageme
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Domain.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Domain.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Domain.pdb
