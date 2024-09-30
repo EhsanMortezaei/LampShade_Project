@@ -468,3 +468,12 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Nancy.dll
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Checkout.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\MailKit.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\RestSharp.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\PaymentResult.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Orders\Index.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Orders\Items.cshtml.g.cs
