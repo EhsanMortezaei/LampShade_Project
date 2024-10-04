@@ -175,7 +175,32 @@
       "ProjectGuid": "0e5b5bc7-2057-474a-979e-3681cff4b61c",
       "DisplayName": "ShopManagement.Infrastructure.InventoryAcl",
       "ColorIndex": 1
+    },
+    "87fb4bd4-8d91-47b4-90e8-f963ff51cd23": {
+      "ProjectGuid": "87fb4bd4-8d91-47b4-90e8-f963ff51cd23",
+      "DisplayName": "ShopManagement.Presentation.Api",
+      "ColorIndex": 2
+    },
+    "7cd897c6-0f7c-46c1-8652-3db822b37792": {
+      "ProjectGuid": "7cd897c6-0f7c-46c1-8652-3db822b37792",
+      "DisplayName": "InventoryManagement.Presentation.Api",
+      "ColorIndex": 3
+    },
+    "c67aefbb-8100-4e37-88d6-ba5b99c26ef7": {
+      "ProjectGuid": "c67aefbb-8100-4e37-88d6-ba5b99c26ef7",
+      "DisplayName": "BlogManagement.Presentation.Api",
+      "ColorIndex": 4
+    },
+    "340ee744-d5ea-4d5f-ad82-52133f723a74": {
+      "ProjectGuid": "340ee744-d5ea-4d5f-ad82-52133f723a74",
+      "DisplayName": "InventoryManagement.Presentation.Api",
+      "ColorIndex": 5
+    },
+    "9f5af130-8cba-43d0-a251-fdca43bb3d2a": {
+      "ProjectGuid": "9f5af130-8cba-43d0-a251-fdca43bb3d2a",
+      "DisplayName": "BlogManagement.Presentation.Api",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 7
 }

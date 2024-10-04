@@ -6,6 +6,7 @@ using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configuration;
+using InventoryManagement.Presentation.Api;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -15,6 +16,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShopManagement.Configuration;
+using ShopManagement.Presentation.Api;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -89,7 +91,10 @@ namespace ServiceHost
                     options.Conventions.AuthorizeAreaFolder("Adminstration", "/Shop", "Shop");
                     options.Conventions.AuthorizeAreaFolder("Adminstration", "/Discounts", "Discount");
                     options.Conventions.AuthorizeAreaFolder("Adminstration", "/Accounts", "Account");
-                });
+                })
+                .AddApplicationPart(typeof(ProductController).Assembly)
+                .AddApplicationPart(typeof(InventoryController).Assembly)
+                .AddNewtonsoftJson();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -121,6 +126,7 @@ namespace ServiceHost
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                endpoints.MapControllers();
                 endpoints.MapDefaultControllerRoute();
             });
         }

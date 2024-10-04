@@ -477,3 +477,11 @@ E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Orders\Index.cshtml.g.cs
 E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Orders\Items.cshtml.g.cs
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.pdb
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\practice\asp.net core\atriya\project\LampShade_Project\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
